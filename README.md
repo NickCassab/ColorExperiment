@@ -2,7 +2,8 @@
 
 A 3D interactive visualization tool that transforms images into point clouds representing their color distributions in RGB and HSV color spaces.
 
-![Color Space Visualizer Demo](https://github.com/yourusername/color-space-visualizer/assets/demo.gif)
+![Color-Experiments](https://github.com/user-attachments/assets/97cbfdd0-df1d-4975-b14e-792b0dd3c075)
+
 
 ## Overview
 
